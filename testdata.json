@@ -5,6 +5,7 @@
     "taskPriority": "High",
     "taskCreationDate": "2024-10-25",
     "taskDueDate": "2024-11-01",
+    "taskCompletionDate": "none",
     "taskComplete": false,
     "notes": "<p>Focus on a minimalist style with a clean layout.</p><p>Ensure color contrast is accessible.</p>",
     "resurrectionTime": -1
@@ -15,6 +16,7 @@
     "taskPriority": "Normal",
     "taskCreationDate": "2024-10-26",
     "taskDueDate": "none",
+    "taskCompletionDate": "none",
     "taskComplete": false,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
     "resurrectionTime": -1
@@ -25,6 +27,7 @@
     "taskPriority": "Normal",
     "taskCreationDate": "2024-10-26",
     "taskDueDate": "none",
+    "taskCompletionDate": "none",
     "taskComplete": false,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
     "resurrectionTime": -1
@@ -35,6 +38,7 @@
     "taskPriority": "Normal",
     "taskCreationDate": "2024-10-26",
     "taskDueDate": "none",
+    "taskCompletionDate": "none",
     "taskComplete": false,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
     "resurrectionTime": -1
@@ -45,6 +49,7 @@
     "taskPriority": "Low",
     "taskCreationDate": "2024-10-20",
     "taskDueDate": "2024-10-30",
+    "taskCompletionDate": "none",
     "taskComplete": true,
     "notes": "<p>Include section on key challenges and solutions.</p>",
     "resurrectionTime": 30
