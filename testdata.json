@@ -4,49 +4,49 @@
     "taskName": "Design website UI",
     "taskCategory": "Development",
     "taskPriority": 1,
-    "taskDueDate": "2024-11-01",
-    "taskCompletionDate": "none",
+    "taskDueTime": 1731962209493,
+    "taskCompletionTime": 0,
     "notes": "<p>Focus on a minimalist style with a clean layout.</p><p>Ensure color contrast is accessible.</p>",
-    "resurrectionTime": -1
+    "daysToResurrect": 0
   },
   {
     "taskCreationTime" : 1729962209494,
     "taskName": "Write API endpoints",
     "taskCategory": "Backend",
     "taskPriority": 0,
-    "taskDueDate": "none",
-    "taskCompletionDate": "none",
+    "taskDueTime": 0,
+    "taskCompletionTime": 0,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
-    "resurrectionTime": -1
+    "daysToResurrect": 0
   },
     {
     "taskCreationTime" : 1729962209495,
     "taskName": "bleep",
     "taskCategory": "Backend",
     "taskPriority": 0,
-    "taskDueDate": "none",
-    "taskCompletionDate": "none",
+    "taskDueTime": 0,
+    "taskCompletionTime": 0,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
-    "resurrectionTime": -1
+    "daysToResurrect": 0
   },
     {
     "taskCreationTime" : 1729962209496,
     "taskName": "Fix issue",
     "taskCategory": "Backend",
     "taskPriority": 0,
-    "taskDueDate": "none",
-    "taskCompletionDate": "none",
+    "taskDueTime": 0,
+    "taskCompletionTime": 0,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
-    "resurrectionTime": -1
+    "daysToResurrect": 0
   },
   {
     "taskCreationTime" : 1729962209497,
     "taskName": "Draft project report",
     "taskCategory": "Documentation",
     "taskPriority": -1,
-    "taskDueDate": "2024-10-30",
-    "taskCompletionDate": "none",
+    "taskDueTime": 0,
+    "taskCompletionTime": 0,
     "notes": "<p>Include section on key challenges and solutions.</p>",
-    "resurrectionTime": 30
+    "daysToResurrect": 30
   }
 ]
