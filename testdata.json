@@ -6,7 +6,6 @@
     "taskPriority": "High",
     "taskDueDate": "2024-11-01",
     "taskCompletionDate": "none",
-    "taskComplete": false,
     "notes": "<p>Focus on a minimalist style with a clean layout.</p><p>Ensure color contrast is accessible.</p>",
     "resurrectionTime": -1
   },
@@ -17,7 +16,6 @@
     "taskPriority": "Normal",
     "taskDueDate": "none",
     "taskCompletionDate": "none",
-    "taskComplete": false,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
     "resurrectionTime": -1
   },
@@ -28,7 +26,6 @@
     "taskPriority": "Normal",
     "taskDueDate": "none",
     "taskCompletionDate": "none",
-    "taskComplete": false,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
     "resurrectionTime": -1
   },
@@ -39,7 +36,6 @@
     "taskPriority": "Normal",
     "taskDueDate": "none",
     "taskCompletionDate": "none",
-    "taskComplete": false,
     "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
     "resurrectionTime": -1
   },
@@ -50,7 +46,6 @@
     "taskPriority": "Low",
     "taskDueDate": "2024-10-30",
     "taskCompletionDate": "none",
-    "taskComplete": true,
     "notes": "<p>Include section on key challenges and solutions.</p>",
     "resurrectionTime": 30
   }
