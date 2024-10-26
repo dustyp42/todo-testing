@@ -1,0 +1,52 @@
+[
+  {
+    "taskName": "Design website UI",
+    "taskCategory": "Development",
+    "taskPriority": "High",
+    "taskCreationDate": "2024-10-25",
+    "taskDueDate": "2024-11-01",
+    "taskComplete": false,
+    "notes": "<p>Focus on a minimalist style with a clean layout.</p><p>Ensure color contrast is accessible.</p>",
+    "resurrectionTime": -1
+  },
+  {
+    "taskName": "Write API endpoints",
+    "taskCategory": "Backend",
+    "taskPriority": "Normal",
+    "taskCreationDate": "2024-10-26",
+    "taskDueDate": "none",
+    "taskComplete": false,
+    "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
+    "resurrectionTime": -1
+  },
+    {
+    "taskName": "bleep",
+    "taskCategory": "Backend",
+    "taskPriority": "Normal",
+    "taskCreationDate": "2024-10-26",
+    "taskDueDate": "none",
+    "taskComplete": false,
+    "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
+    "resurrectionTime": -1
+  },
+    {
+    "taskName": "bloop",
+    "taskCategory": "Backend",
+    "taskPriority": "Normal",
+    "taskCreationDate": "2024-10-26",
+    "taskDueDate": "none",
+    "taskComplete": false,
+    "notes": "<p>Define endpoints for tasks and notes retrieval.</p><p>Test each endpoint with dummy data.</p>",
+    "resurrectionTime": -1
+  },
+  {
+    "taskName": "Draft project report",
+    "taskCategory": "Documentation",
+    "taskPriority": "Low",
+    "taskCreationDate": "2024-10-20",
+    "taskDueDate": "2024-10-30",
+    "taskComplete": true,
+    "notes": "<p>Include section on key challenges and solutions.</p>",
+    "resurrectionTime": 30
+  }
+]
