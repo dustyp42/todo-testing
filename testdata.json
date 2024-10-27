@@ -1,8 +1,8 @@
 [
   {
     "taskCreationTime" : 1729962209493,
-    "taskName": "Design website UI",
-    "taskCategory": "Development",
+    "taskName": "Clean hall bathroom",
+    "taskCategory": "cleaning",
     "taskPriority": 1,
     "taskDueTime": 1731962209493,
     "taskCompletionTime": 0,
@@ -11,8 +11,8 @@
   },
   {
     "taskCreationTime" : 1729962209494,
-    "taskName": "Write API endpoints",
-    "taskCategory": "Backend",
+    "taskName": "Make dentist appt",
+    "taskCategory": "medical",
     "taskPriority": 0,
     "taskDueTime": 0,
     "taskCompletionTime": 0,
@@ -21,8 +21,8 @@
   },
     {
     "taskCreationTime" : 1729962209495,
-    "taskName": "bleep",
-    "taskCategory": "Backend",
+    "taskName": "shutter painting quotes",
+    "taskCategory": "contractor",
     "taskPriority": 0,
     "taskDueTime": 0,
     "taskCompletionTime": 0,
@@ -31,8 +31,8 @@
   },
     {
     "taskCreationTime" : 1729962209496,
-    "taskName": "Fix issue",
-    "taskCategory": "Backend",
+    "taskName": "Get new HDD",
+    "taskCategory": "electronic",
     "taskPriority": 0,
     "taskDueTime": 0,
     "taskCompletionTime": 0,
@@ -41,8 +41,8 @@
   },
   {
     "taskCreationTime" : 1729962209497,
-    "taskName": "Draft project report",
-    "taskCategory": "Documentation",
+    "taskName": "Clear out morning glory",
+    "taskCategory": "yardwork",
     "taskPriority": -1,
     "taskDueTime": 0,
     "taskCompletionTime": 0,
